@@ -1,0 +1,8 @@
+i spent 8 hours on this assignment
+i think i earned a b
+i think i deserve an a
+i was confused on the question, it could take in more than 1 parameter from what it looks like with out changing the code. 
+but im guessing its because params is appened to the front of the list from no-code
+My first idea was to try to use length to determine if there was more than just variavle in the call function. if so walk through it
+but it would crash because length wants a list and in the body of the function there was only 1 value and it was not a list. i figured i needed more recursion so i called 
+no-parser again but i couldnt get it to keep going through with out adding another recursion loop and adding another cdr. 
