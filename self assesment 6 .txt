@@ -1,0 +1,4 @@
+i spent 5 hours on this assignment
+i think i earned a b
+i think i deserve an a
+I couldnt tie everything together but my thought process was to call do-mathy-stuff on each question and return true or false depending on the return of the if statement
