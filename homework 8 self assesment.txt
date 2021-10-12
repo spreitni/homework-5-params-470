@@ -1,0 +1,5 @@
+I spent 5 hours on this assingment
+i think i earned an a
+i think i deserve a b
+I made a couple helper functions i think i should have used run parsed code more but i just decided to boil 
+down the let expression in its own function because i thought it would be easier. 
