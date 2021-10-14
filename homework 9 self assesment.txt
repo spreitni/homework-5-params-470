@@ -1,0 +1,5 @@
+I spent 30 hours on this assingment
+i think i earned an a
+i think i deserve an a
+i spent a bit of time racalling what each line does but after a fresh understanding
+of the code my first idea was to seperate the local and og env but then i decided to seperate the call functions and from what i can tell it works.
